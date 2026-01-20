@@ -143,7 +143,7 @@ Interactive slicers (Year, Category, Region, Segment)
 
 bash
 Copy code
-dashboards/sales_dashboard.png
+sales_dashboard.png
 🔴 2. Loss Analysis Dashboard
 Focus: Loss drivers & discount impact
 
@@ -163,7 +163,7 @@ Identification of high-discount loss zones
 
 bash
 Copy code
-dashboards/loss_dashboard.png
+loss_dashboard.png
 💡 Key Business Insights
 Furniture category suffers the highest losses due to heavy discounting
 
